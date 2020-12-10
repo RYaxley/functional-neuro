@@ -1,0 +1,15 @@
+DISDAQ INFO FOR DIFFERENT GROUPS
+
+CUD.01
+Adolescents have 4 volumes removed from their image files. Higher-level
+analyes will use PS/4disdaqs data. They also have 4 * 2(TR) = 8 s removed from
+behavioral data.
+
+ExecInfo
+Adults E1 have 0 volumes removed from their image files. Higher-level analyes
+will use PS/0disdaqs data. They do have 4 * 1.5(TR) = 6 s removed from
+behavioral data.
+
+Adults E2 have 0 volumes removed from their image files. Higher-level analyes
+will use PS/0disdaqs data. They do not have any time removed from behavioral
+data.
